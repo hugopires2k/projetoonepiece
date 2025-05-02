@@ -1,2 +1,2 @@
 # projetoonepiece
- projeto onepiece do devemdobro
+ projeto onepiece do dev em dobro
